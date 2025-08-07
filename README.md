@@ -15,7 +15,7 @@ models/
   yolov8n-face-lindevs.pt
 ```
 
-3. 環境構築(Windows)
+3. 【Windows】環境構築（Python3.12以下推奨）
 ```bash
 python -m venv .venv
 .\.venv\Scripts\activate
