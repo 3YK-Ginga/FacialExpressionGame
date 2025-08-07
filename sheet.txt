@@ -1,0 +1,22 @@
+# 時間,表情,ポイント
+# happy, surprise, sad, anger, disgust, fear, neutral
+
+6.48,happy,100
+10.53,surprise,100
+14.61,sad,150
+19.04,anger,100
+21.13,disgust,150
+22.96,fear,150
+23.74,neutral,100
+25.83,happy,100
+28.96,surprise,100
+31.04,sad,150
+32.35,anger,100
+33.39,disgust,150
+35.48,fear,150
+36.52,neutral,100
+37.57,happy,100
+40.43,surprise,100
+41.48,sad,150
+42.52,anger,100
+46.57,happy,150
