@@ -175,7 +175,7 @@ class FacialExpressionGame:
     if final_score >= self.sheet_parser.total_point:
         message = "PERFECT"
         message_color = (0, 255, 0)
-    elif final_score >= self.sheet_parser.total_point * 0.6:
+    elif final_score >= self.sheet_parser.total_point * 0.4:
         message = "  GOOD "
         message_color = (0, 255, 255)
     else:
